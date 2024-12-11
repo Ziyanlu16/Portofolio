@@ -7,9 +7,10 @@ Welcome to my personal portfolio! You can view my work [here](https://ziyanlu16.
 ### Projects 🚀
 
 Here are some of the projects I've worked on:
-- [Project 1](https://github.com/Ziyanlu16/Road_Sign_Detection)
-- [Project 2](https://github.com/Ziyanlu16/Kaggle_CIFAR10_Competition)
-- [Project 3](https://github.com/Ziyanlu16/House_Prices_Prediction_Kaggle)
+- [BoSAM](https://github.com/Ziyanlu16/BoSAM)
+- [FacE](https://github.com/Ziyanlu16/Face_Age_Estimation)
+- [Road Sign Detection](https://github.com/Ziyanlu16/Road_Sign_Detection)
+
 
 ### Contact Me 📧
 
